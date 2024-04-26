@@ -4,4 +4,4 @@ Exercises on *Denoising Diffusion Models* for "Praktikum Simulation Cyber Physis
 
 ## References
 
-Implementation of the Diffusion models is based on content from [DenoisingDiffusion.jl](https://github.com/LiorSinai/DenoisingDiffusion.jl). 
+Implementation of the diffusion model is based on content from [DenoisingDiffusion.jl](https://github.com/LiorSinai/DenoisingDiffusion.jl). 
